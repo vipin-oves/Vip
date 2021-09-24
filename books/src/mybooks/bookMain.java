@@ -23,7 +23,8 @@ public class bookMain {
 				do
 				{
 				System.out.println("1. Adding Books\n2. Search Books\n3. Update Book\n4. Delete Book");
-				System.out.println("Choose one option");
+				
+				System.out.println("chosse any one option");
 				int ch = sc.nextInt();
 				
 				if(ch==1)
